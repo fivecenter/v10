@@ -154,6 +154,20 @@ Filename: ./Debs/Public_KidsAutoPro_v10.22.5~29_FixSomeBugs.deb
 Size: 617342
 MD5sum: 7a48a0af6343efdf45e581e6ddb7d9e0
 
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro v10
+Version: 10.22.11~17
+Architecture: iphoneos-arm
+Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x - FixBugs
+Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Maintainer: KidsAuto Pro Teams
+Section: Tweaks
+Tag: role::hacker
+Depends: mobilesubstrate
+Filename: ./Debs/Release_KidsAutoPro_v10.22.11_17_FixBugs.deb
+Size: 602866
+MD5sum: bc4404a06d84a82cb06da43462754ac2
+
 Package: com.kidsautopro.kidssupport
 Name: Kids Support
 Version: 1.11-10-2
